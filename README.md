@@ -7,7 +7,7 @@ This application was written to pull data from imdb to use for educational purpo
 1. First, clone the project to your computer:
 
     ```bash
-    git clone https://github.com/levitomato/IMDB_scrapper
+    git clone https://github.com/findik-faresi/IMDB_scrapper
     ```
 
 2. Go to the project directory:
